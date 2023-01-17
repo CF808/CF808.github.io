@@ -19,3 +19,4 @@ I love going to the beach.
 
 I love to be with nature.
 
+I choose to major in MIS because i love to fix things technology wise.
