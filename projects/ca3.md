@@ -4,7 +4,7 @@ type: project
 image: img/cotton/cotton-square.png
 title: "Checkpoint Assignment 3"
 date: 2023
-published: true
+published: false
 labels:
   - A3
   - GitHub
