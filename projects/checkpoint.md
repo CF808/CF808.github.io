@@ -4,14 +4,12 @@ type: project
 image: img/cotton/cotton-square.png
 title: "Checkpoint Assignment 3"
 date: 2023
-published: false
+published: true
 labels:
   - A3
   - GitHub
 summary: "Checkpoint Assignment 3"
 ---
-
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 <p>
 1.[Assignment 3 prototype Chareen.pptx](https://github.com/CF808/CF808.github.io/files/11369647/Assignment.3.prototype.Chareen.pptx)
@@ -31,4 +29,3 @@ summary: "Checkpoint Assignment 3"
 7. For assignment 3 I am hoping everything works right and the validations are working properly for when a user logs in and uses the application and I will make sure my products work.
 </p>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
