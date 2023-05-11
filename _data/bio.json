@@ -6,7 +6,7 @@
     "email": "cfort@hawaii.edu",
     "phone": "",
     "website": "https://CF808.github.io",
-    "summary": "I am studying for a B.S. in Management Information System at the University of Hawaii at Manoa. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a BBA in Management Information System at the University of Hawaii at Manoa. I expect to graduate in May, 2024.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "CF808", "url": "http://github.com/CF808" },
@@ -21,6 +21,7 @@
     { "name": "Social Media" },
     { "name": "Technology" },
     { "name": "Video game" }
+    { "name": "Computers" }
   ],
   "skills": [
     {
@@ -35,8 +36,8 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "BBA MIS (expected Spring, 2024)",
-      "studyType": "B.S.",
+      "area": "BBA MIS (expected May, 2024)",
+      "studyType": "B.B.A.",
       "startDate": "2023-01-01",
       "endDate": "Present",
       "courses": [
