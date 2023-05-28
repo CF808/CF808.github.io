@@ -1,0 +1,118 @@
+{
+  "basics": {
+    "label": "Student ",
+    "picture": "https://github.com/CF808.png",
+    "email": "cfort@hawaii.edu",
+    "phone": "",
+    "website": "https://CF808.github.io",
+    "summary": "I am studying for a BBA in Management Information System at the University of Hawaii at Manoa. I expect to graduate in May, 2024.",
+    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "CF808", "url": "http://github.com/CF808" },
+      { "network": "linkedin", "username": "", "url": "" },
+      { "network": "twitter", "username": "", "url": "" },
+      { "network": "instagram", "username": "", "url": "" }
+    ]
+  },
+  "interests": [
+    { "name": "MIS" },
+    { "name": "Business" },
+    { "name": "Social Media" },
+    { "name": "Technology" },
+    { "name": "Video game" }
+    { "name": "Computers" }
+  ],
+  "skills": [
+    {
+      "name": "",
+      "keywords": [ "", "", "", "", "", "" ]
+    },
+    {
+      "name": "",
+      "keywords": [ "", "", "", "", "" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "BBA MIS (expected May, 2024)",
+      "studyType": "B.B.A.",
+      "startDate": "2023-01-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        ""
+      ]
+    },
+    {
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "",
+        "",
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    },
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
