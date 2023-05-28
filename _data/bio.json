@@ -6,7 +6,7 @@
     "phone": "",
     "website": "https://CF808.github.io",
     "summary": "I am studying for a BBA in Management Information System at the University of Hawaii at Manoa. I expect to graduate in May, 2024.",
-    "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": " ", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "CF808", "url": "http://github.com/CF808" },
       { "network": "linkedin", "username": "", "url": "" },
